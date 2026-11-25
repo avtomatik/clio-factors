@@ -1,0 +1,20 @@
+# Python / packaging
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.build/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+# Research outputs (reproduced from packaged data, not committed)
+/results/
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+# Preserve original data snapshots in src/cliofactors/datasets/.

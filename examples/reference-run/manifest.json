@@ -1,0 +1,26 @@
+{
+  "dataset": {
+    "capital_id": "DT19AS03",
+    "end_year": 1926,
+    "labor_id": "DT19AS02",
+    "output_id": "DT19AS01",
+    "slug": "douglas",
+    "start_year": 1890
+  },
+  "hac_lags": 2,
+  "missing_years_imputed": false,
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "plots": true,
+  "python": "3.13.5",
+  "source_archive": "dataset_douglas.zip",
+  "source_sha256": "bbe0ad253ec84261e1d8e2c236fa302f36fc83be5fea178663f56d73d467e1ad",
+  "source_title": "Douglas: The Theory of Wages",
+  "specifications": [
+    "levels",
+    "growth"
+  ],
+  "tool": "ClioFactors",
+  "version": "1.0.0",
+  "year_join": "inner"
+}

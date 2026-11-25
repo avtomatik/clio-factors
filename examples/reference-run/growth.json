@@ -1,0 +1,19 @@
+{
+  "capital_elasticity": -0.1288919935760453,
+  "condition_number": 18.749156512507202,
+  "durbin_watson": 2.3362397171759715,
+  "first_year": 1891,
+  "hac_lags": 2,
+  "hac_std_error_capital": 0.09830438322507123,
+  "hac_std_error_intercept": 0.00696576006041627,
+  "hac_std_error_labor": 0.10071015708130097,
+  "intercept_log": 0.026814952476072566,
+  "labor_elasticity": 0.6897199862770368,
+  "last_year": 1926,
+  "n": 36,
+  "productivity_scale": null,
+  "r_squared": 0.5610183386922731,
+  "returns_to_scale": 0.5608279927009915,
+  "rmse_log": 0.04215059022317746,
+  "specification": "growth"
+}

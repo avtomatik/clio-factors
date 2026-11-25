@@ -1,0 +1,30 @@
+{
+  "CHN_TUR_GDP.zip": {
+    "bytes": 1381,
+    "sha256": "2218004daf1f229b6ff7a87f5c38186ecb7c12a16c7f93e22f669cb3e22e3709"
+  },
+  "dataset_douglas.zip": {
+    "bytes": 45659,
+    "sha256": "bbe0ad253ec84261e1d8e2c236fa302f36fc83be5fea178663f56d73d467e1ad"
+  },
+  "dataset_usa_brown.zip": {
+    "bytes": 5549,
+    "sha256": "3c07accaf7666e32b55ff6b86f357858688f78cc7450c25d2cb9596f882dcbae"
+  },
+  "dataset_usa_cobb-douglas.zip": {
+    "bytes": 2430,
+    "sha256": "5a07e90ae4940b9681043c9415caea99737c5ffe6dcf4f8bccfd2b83b5b1e7f5"
+  },
+  "dataset_usa_kendrick.zip": {
+    "bytes": 74356,
+    "sha256": "c1e34bcf0a59a20f6eb02b472edc2b94eed3bc6f791537cd4ed2cec27d9d4205"
+  },
+  "dataset_usa_mc_connell_brue.zip": {
+    "bytes": 2519,
+    "sha256": "26688881244964632e6806ef42f32314c622345c9ef23967571837d6502f413f"
+  },
+  "dataset_uscb.zip": {
+    "bytes": 572733,
+    "sha256": "3fcd4a571962c507d2f36c2e2aa336d5ff86a8216d2915765bb1c0d28ee3f44a"
+  }
+}
